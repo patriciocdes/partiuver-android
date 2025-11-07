@@ -1,3 +1,19 @@
+# PartiuVer — Descrição e Arquitetura do Aplicativo
+
+## 🎬 Funcionalidades do Aplicativo
+
+O **PartiuVer** é um aplicativo Android que ajuda você a **descobrir onde assistir seus filmes favoritos** de forma simples e prática.  
+
+- **🔍 Busca de filmes:** digite o nome de um filme e veja instantaneamente uma lista com os títulos correspondentes, acompanhados de imagem, duração e avaliação (Tomato Meter).  
+- **📖 Detalhes completos:** ao selecionar um filme, o aplicativo exibe informações como título, duração e nota, além de uma seção dedicada a **“Onde Assistir”**.  
+- **🎥 Plataformas de streaming:** o app mostra em quais serviços o filme está disponível (como Disney Plus, Netflix, Paramount+ etc.) e o tipo de exibição (HD, 4K).  
+- **➡️ Acesso direto:** tocando em **“Conferir”**, o usuário é redirecionado para o aplicativo ou site de streaming correspondente, facilitando o acesso imediato ao conteúdo.  
+- **✨ Experiência fluida:** a interface é moderna, leve e intuitiva — ideal para quem quer encontrar rapidamente um filme e assistir sem complicações.  
+
+O **PartiuVer** combina praticidade e clareza para oferecer uma experiência simples de **busca e descoberta de filmes**, conectando você diretamente ao streaming onde ele está disponível.
+
+---
+
 # Arquitetura do Aplicativo — PartiuVer Android
 
 O **PartiuVer** foi desenvolvido seguindo princípios de **Clean Architecture** e **modularização** para garantir **separação de responsabilidades**, **facilidade de manutenção**, **testabilidade** e **evolução escalável**.  
