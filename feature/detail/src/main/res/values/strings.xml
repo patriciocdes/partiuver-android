@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="try_again">Tentar novamente</string>
+    <string name="more_about_film">Mais sobre o filme</string>
+    <string name="back_text">Voltar</string>
+    <string name="loading_details">Carregando detalhes...</string>
+    <string name="where_to_watch">Onde Assistir</string>
+    <string name="no_offers_available">Nenhuma oferta disponível.</string>
+    <string name="check_offer">Conferir</string>
+</resources>

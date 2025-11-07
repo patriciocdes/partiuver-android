@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="loading_movies">Carregando filmes...</string>
+    <string name="generic_erro_message">Erro</string>
+    <string name="search">Buscar</string>
+    <string name="partiuver_title">PartiuVer!</string>
+    <string name="search_movie">Buscar filme</string>
+</resources>

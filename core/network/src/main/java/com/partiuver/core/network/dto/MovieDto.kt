@@ -1,11 +1,15 @@
 package com.partiuver.core.network.dto
 
+import com.google.gson.annotations.SerializedName
+
 data class MovieDto(
-    val imdbId: String,
+    val id: String,
     val title: String,
     val year: Int,
-    val poster: String,
     val runtime: Int,
-    val rating: Double,
-    val offer: String
+    val tomatoMeter: Int?,
+    val backdrops: List<String>?,
+    val offers: List<OfferDto>,
+    @SerializedName("photo_url")
+    val photoUrl: List<String>
 )

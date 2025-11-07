@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="error_not_found">Filme não encontrado</string>
+    <string name="error_unknown">Tente novamente mais tarde</string>
+</resources>
